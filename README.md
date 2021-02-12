@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio
+# xd
+Mi primer
 
 
 Autor: Samuel Hdz
